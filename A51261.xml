@@ -1,0 +1,526 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An addition to the Clavis aurea with an enquiry upon what terms the salvation of man doth depend; whether entirely on faith or entirely on works, or whether entirely on grace or free-gift. By Thomas Moor, author of the Clavis aurea, living in St. Thomas's in Southwark.</title>
+            <title>Clavis aurea. Addition.</title>
+            <author>Moor, Thomas, fl. 1695-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 79 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51261</idno>
+            <idno type="STC">Wing M2608AA</idno>
+            <idno type="STC">ESTC R216354</idno>
+            <idno type="EEBO-CITATION">99828086</idno>
+            <idno type="PROQUEST">99828086</idno>
+            <idno type="VID">32513</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51261)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32513)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1855:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An addition to the Clavis aurea with an enquiry upon what terms the salvation of man doth depend; whether entirely on faith or entirely on works, or whether entirely on grace or free-gift. By Thomas Moor, author of the Clavis aurea, living in St. Thomas's in Southwark.</title>
+                  <title>Clavis aurea. Addition.</title>
+                  <author>Moor, Thomas, fl. 1695-1697.</author>
+               </titleStmt>
+               <extent>viii, 9-31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[This book may be had at Thomas Moor's, a barber, living in St. Thomas's in Southwark, near the sign of the Harrow],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A B-C⁴.</note>
+                  <note>Bookseller's name and address from colophon.</note>
+                  <note>Reproduction of the original in the Lambeth Palace Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Salvation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32513:1" rendition="simple:additions"/>
+            <p>AN ADDITION TO THE <hi>Clavis Aurea:</hi> WITH An Enquiry upon what Terms the Salvation of Man doth depend; whe<g ref="char:EOLhyphen"/>ther entirely on Faith or entirely on Works, or whether partly on Faith or partly on Works, or whether en<g ref="char:EOLhyphen"/>tirely on Grace or Free-gift.</p>
+            <p>By <hi>THOMAS MOOR,</hi> Author of the <hi>Clavis Aurea,</hi> living in St. <hi>Thomas</hi>'s in <hi>Southwark.</hi>
+            </p>
+            <q>
+               <p>God hath choſen the fooliſh things of the World, to confound the wiſe; and weak things of the World, to confound the mighty,</p>
+               <bibl>1 Cor. 1. 27.</bibl>
+            </q>
+            <p>
+               <hi>London;</hi> Printed in the Year, 1696.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:32513:2"/>
+            <pb n="iii" facs="tcp:32513:2"/>
+            <head>TO THE READER.</head>
+            <p>MY Clavis Aurea lies unanſwered; before that Book was printed I was ſo careful to ſend a ſuch-like Copy to Dr. <hi>Stillingfleet,</hi> another to Mr. Laughton at <hi>Trinity-Colledge</hi> in <hi>Cambridge;</hi> and the ſame Copy that is now in print to Mr. <hi>Bradford,</hi> now Miniſter of <hi>Bow;</hi> but all of them refuſed to diſ<g ref="char:EOLhyphen"/>courſe me; the reaſon I could never know of their Refu<g ref="char:EOLhyphen"/>ſal: Dr. <hi>Stillingfleet</hi> would not flatly deny me, but tyred me out in coming after him.</p>
+            <p>This <hi>Clavis Aurea,</hi> now in print, I ſent one to Mr.
+<hi>Vincent,</hi> and after ſome time I viſited him with two Friends with me; but he poſitively refuſed to diſcourſe one. Once I viſited
+<hi>Cambridge</hi> (having choſen the Trade of a Barber, preferring it before the tempted Life of a Lawyer to which my Parents deſigned me) where (having that opportunity as I Trimm'd them) I put Que<g ref="char:EOLhyphen"/>ſtions to the Schollars, by which and their Anſwers, I was well Satisfied of the Strength of my Argments. Moſt of the Miniſters about where I live, have had that <hi>Cla<g ref="char:EOLhyphen"/>vis Aurea,</hi> but none of them have been ſo Charitable (if they thought me in an Error) to endeavour to con<g ref="char:EOLhyphen"/>vince me: Alas! Diſputation is ten Thouſand Times beyond Preaching, for Men by Reading and Study, may be well Skill'd in the Moral part of the Scriptures, and pay from them preach to the World ſeemingly very good <pb n="iv" facs="tcp:32513:3"/> Doctrine, and be cryed up for excellent Preachers, but Diſputation tryes a man to the quick: it was the uſual Cuſtom of <hi>Paul</hi> in all places he came to, to diſpute, and to enter into the <hi>Jews</hi> Synogogues and diſpute them, nay in the Market-Place, <hi>Acts 17. 17.</hi> and <hi>he diſputed daily in the School of</hi> Tyrannus, <hi>Acts 19. 9.</hi> and re<g ref="char:EOLhyphen"/>ceived all that came unto him; ſo that he ſought Diſ<g ref="char:EOLhyphen"/>putation, net Shamming them of, pleading Excuſes, and turning them out of Doors, for fear of his Reputation and conſequently his Intereſt: I would have all men take eſpecial notice, that 'tis a true thing that Cuſtom in a falſe Religion hath diverted Men from the belief of what cannot be overthrown, whereas its ſafer to rely on ſuch unanſwerable Proofs, and that renders us excuſable though the Tenets in themſelves ſhould prove erronious, ſince we cloſe with the Truth as near as we can, and better cannot be expected from us, but to adhere to what we cannot by Argument maintain, is altogether Sin<g ref="char:EOLhyphen"/>ful, having no Plea or Reaſon to give: In Scripture, Divinity was ever a Free-gift, and could not be obtain'd by ſtudy, and was given to Labouring and Tradeſ<g ref="char:EOLhyphen"/>men, as the poor Fiſhermen, and <hi>Paul</hi> a Tent-maker, who work'd with his Hands to maintain himſelf, and left it for an Example to others, who now do not follow the Example of him that was able to reach them all, <hi>2 Theſſ. 3. 8,
+9.</hi>
+            </p>
+            <p>As the <hi>Clavis Aurea</hi> hath not yet been anſwered, ſo I account this likewiſe will prove unanſwerable, becauſe I have followed an infallible way to ground my Tenets upon. Thus, All Scriptures are certainly true, and as they are true, they cannot contradict one another Really, for then ſome of them muſt of neceſſity be falſe, they may ſeemingly (as they do) contradict one another, but not really becauſe they are all true, and nono falſe if rightly <pb n="v" facs="tcp:32513:3"/> interpreted from the Originals, and the Originals be alſo true, but I take them as they lie in the laſt Interpreta<g ref="char:EOLhyphen"/>tion, which Interpretation if any pretend to contradict, the only way to be ſatisfied of that is by theſe Books I have writ, by veiwing their Harmony, which if they were not rightly interpreted from their true Original<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in what I write, they could not be united in Senſe one with another. From this Rule I make choice of ſome place of Scripture for our ſatisfaction in Salvation, that will admit of no other Expoſition than its own li<g ref="char:EOLhyphen"/>teral Senſe, and beſure no other Scripture muſt contradict that Scripture really, becauſe they are all true: hence I make my choice of <hi>Rom. 11. 25, 26. Blindneſs, in part is happened to</hi> Iſrael, <hi>till the fulneſs of the Gentiles be come in; and ſo all</hi> Iſrael <hi>ſhall be ſaved.</hi> I find this Text will admit of no other Expoſition than its own literal Senſe, and Experience confirming its literal Senſe true, of their Blindneſs to continue ſo long, which makes this literal Senſe an infallible Expoſition: For <hi>Iſrael</hi> in part do die in <g ref="char:V">Ʋ</g>nbelief, and are born to die in <g ref="char:V">Ʋ</g>nbelief, ſince their <g ref="char:V">Ʋ</g>nbelief is to contine ſo long,
+<hi>till the Fulneſs of the</hi> Gentiles <hi>be come in;</hi> which could not be for any Sin they had committed, becauſe they were not born, and were they to have Free-will, they could not be foreſeen to contiune ſo long in <g ref="char:V">Ʋ</g>nbelief: which Expoſition is infallible as in this Book I prove more largly. I muſt of neceſſity then (ſince all Scripture is true and none falſe) bring all Scriptures of that concern to concur with it, and they muſt not contradict it for then ſome Scriptures muſt be falſe: but this will appear more eaſy to your <g ref="char:V">Ʋ</g>nderſtanding in reading this Book. I muſt likewiſe tell you, that all Scripture of Salvation that carry a double Senſe muſt be brought to this of <hi>Rom. 11. 25.</hi> otherwiſe they prove <pb n="vi" facs="tcp:32513:4"/> nothing in themſelves, as carrying a double Senſe, ſo all Arguments that carry a double Senſe I reject, be<g ref="char:EOLhyphen"/>cauſe then there will be no end of Controverſy. As for Example, <hi>The Worm that never dies, and the Fire that is never quench'd, Iſa. 66. 24.</hi> may be brought to ſignify a ſting of Conſcience, and a real Fire after this Life, or may be taken thus, when united to <hi>Rom. 11. 25.</hi> when a new Heaven and Earth is made, as appears in the Texts before; then all Fleſh, that is, <hi>all Men,</hi> ſhall come and worſhip before me, <hi>from one new moon and from one Sabbath to ano<g ref="char:EOLhyphen"/>ther</hi> that is, always; <hi>and ſhall go forth, and look upon the Carcaſes of the Men that have ſinn'd a<g ref="char:EOLhyphen"/>gainſt me,</hi> &amp;c. Now if <hi>all Fleſh</hi> come and worſhip be<g ref="char:EOLhyphen"/>fore him, who are left for them to go forth and look upon? but as they have been the Children of the Fleſh and now in Glory they ſhall conſider themſelves, and abhor their former condition in the Fleſh, and ſo by the Worm that never dies, and by the Fire that is never quench'd, may be ſignified <hi>the Wrath of God excluding theſe very Perſons Bodies eternally from Heaven.</hi> This laſt Expoſition of that Text then will appear the trueſt, and let the Expoſition be what it will, it muſt not contradict that Text of <hi>Rom. 11. 25.</hi> which will carry no other Senſe, than its one literal Senſe and that is Satisfaction enough for us. And ſo I leave you to underſtand that Text fully in theſe Books, and then you'll be better ſatis<g ref="char:EOLhyphen"/>fied, but the Myſteries of Divinity, or the ways of God, are ſo far above our ways, though they be made apparent to the <g ref="char:V">Ʋ</g>nderſtanding and Experience, yet may appear Fabulous to your Faith for ſometime, and it may be in this World for ever, as it pleaſes God to enlighten your Mind.</p>
+            <p>
+               <pb n="vii" facs="tcp:32513:4"/>As to my Sheet concerning <hi>Elijah,</hi> I find they that <hi>know leaſt make moſt Noiſe,</hi> and by ſuch I have reeeived Abuſes enough, and ſhewed their malice to forſake my Shop. But what would People have me to do? Had they bad ſuch Viſions, and ſuch fulfilling of their Expectations as I have had, mentioned in that Diſpute with the <hi>Athenian Society,</hi> Could they with a ſafe Conſcience go back? Eſpecially when the Learned fly from Argument, as if they were afraid to diſcourſe me: But herein will lie ſome Satisfaction; if no Man can be found that is able to diſcourſe me, then I hope I have the mere reaſon to ſuſpect my ſelf to be that Perſon: but if I were able (as I know nothing to the contrary as yet) to overthrow the whole World in Divinity, I ſhould never believe my ſelf to be that <hi>Elias,</hi> except I alſo lived to ſee the Second Coming of Chriſt: In the mean time I put forth theſe Books to try the Learned, and to cauſe a Preparation againſt that Day, but whither 'twill anſwer my Expectation I am not certain; however I muſt try it, and if it fails me, I have been no Impudent Affirmer, but modeſt in what I have writ, and have (to the beſt of my Knowledg) kept cloſe to the Truth, and better cannot be expected from me, whereby my Conſcience is perfectly ſatisfied let things go how they will, and if there be any Evil, let the Learned anſwer for that, whoſe place it is to ſatisfy Men in their Errors and Doubts; and once more I now try them, being the laſt I intend to write, and ſo I take my leave of them, except they anſwer me, and others will be at the Charges of Printing my Re-anſwers, for my Ability will not do it: The laſt things that I can underſtand by the Scriptures, is the Preparation <hi>Elias</hi> is to make to meet Chriſt in Love at his ſecond Appearance, for the turning a Curſe from the Earth,
+<hi>Mal. 4.</hi> and then</p>
+            <p>
+               <pb n="viii" facs="tcp:32513:5"/>follows the ſecond coming of Chriſt. As for the calling of the Jews, it lyes ſomewhat dubious in Scripture, whither it will be immediately before Chriſt's coming, or at his coming: Our Saviour ſaith <hi>When I come ſhall I find Faith on Earth?</hi> Luke 18. 8. Now if the Jews are called before he come, I ſhould be apt to think, there would be Faith upon Earth, otherwiſe how are they cal<g ref="char:EOLhyphen"/>led? Beſides <hi>the Deliverer that is to come out of Sion to turn Iniquity from them,</hi> muſt certainly be by <hi>Faith,</hi> and who can give them Faith but Chriſt? See <hi>Rom.
+11. 26.</hi> Again, <hi>the Generation of the</hi> Jews <hi>are not to paſs away till all theſe things be done, Math. 24. 34.</hi> that is, in the foregoing verſes, <hi>till the Son of Man come in the Clouds, with Power and great Glory, this Generation is not to paſs away:</hi> Obſerve then, if the
+<hi>Jews</hi> ſhould, before the coming of Chriſt, turn Chriſtians, they would not regard their Geneology, and ſo their Generation would paſs away, ſo that I cannot diſcern that their calling will be till the the ſecond coming of Chriſt. I ſhall not detain you here any longer, but I hope this Age will not altogether imitate the blind. Zeal of the <hi>Jews,</hi> who perſecuted that Doctrine they were not able to anſwer. But already my Suffering in this caſe in forſaking my Shop, that have ſo great a Family proves their Knowledge as little as their Charity, which laſt is one Proof of Apoſtolick Doctrine. And thus in all Ages, hath God confounded the Wiſdom of the World.</p>
+            <closer>
+               <signed>T. M.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="9" facs="tcp:32513:5"/>
+            <head>An Addition to the <hi>Clavis Aurea,</hi> for a more perfect Satisfaction in Salvation; after fifteen years tryal of the Learned.</head>
+            <p>THE Scripture tells us in one place, <hi>That we are ſaved by Grace through Faith, and not of Works, leaſt any ſhould boaſt,</hi> Eph.
+2. 8, 9. but in another place contrary to this, <hi>We are not ſaved by Faith alone, but alſo by Works,</hi> James 2. 24. In another place, <hi>by the Works of the Law ſhall no Fleſh be juſtified,</hi> Gal. 2. 16. But in another place contrary to this, <hi>all <g ref="char:V">Ʋ</g>nbelie<g ref="char:EOLhyphen"/>vers, Fearful, and whoſoever maketh a Lye, have their Portion in the Lake of Brimſtone and Fire,</hi> Rev. 21. 8. which argues we muſt be ſaved by perfection in good works.</p>
+            <p>I need not tell you the inſatisfaction in theſe things, inſomuch that we are at a Nonplus to know on what terms our Salvation doth depend, <hi>whether entirely on Faith, or entirely on Works, or partly on Faith and partly on Works, or entirely on Grace.</hi> So that the Scripture is a Book ſealed up; and he that is not able to overthrow all Men of the contrary Judgment to his, can be no Miniſter of it: As it came by Inſpiration, ſo Inſpiration muſt unfold it; they were never yet laid open, for Paul
+<hi>writ the Wiſdom of God in a Myſtery,</hi> 1 Cor. 2. 7. and there hath been no Spiritual Man to do it ſince; and the Scripture ſpeaks but of one to come, to which I refer you to my Diſputation with the <hi>Athenian Society</hi> concerning <hi>Elias</hi> in <hi>Mal.</hi> 4.</p>
+            <p>By the word <hi>Grace,</hi> I mean a <hi>Free-gift;</hi> as if Salvation were given us, we not meriting it by any Free-will in us. VVhen I ſay <hi>Moſes Law,</hi> I mean not only the Moral Commands of
+<hi>Moſes,</hi> as the Ten Commandments, and the like, but alſo the Moral Commands of Chriſt, which are the ſame as the Law, only ſome of them more difficult to be obeyed; as for example, if the Law ſaith, <hi>Thou ſhalt not commit Adultery,</hi> Chriſt ſaith, <hi>if we but luſt after a Woman we commit Adultery in the Heart:</hi> If the Law ſaith, <hi>Thou ſhalt not covet,</hi> Chriſt bid the <hi>Rich Man to ſell all he had and to give to the Poor.</hi> This being underſtood, I ſhall now <pb n="10" facs="tcp:32513:6"/> open what I have ſaid, concerning on what terms our Salvation doth depend: when it is ſaid <hi>by the works of the Law ſhall no Fleſh be juſtified;</hi> it is without we keep the Law of <hi>Moſes</hi> ſo entirely, <hi>as not to break it in one point, for then we are guilty of the whole,</hi> James 2. 10. in that Senſe that it will condemn us: and Repen<g ref="char:EOLhyphen"/>tance will not fetch us back to be juſtified by that Law being once broken, but a Sacrifice or Chriſt muſt make up what of that Law we are not able to keep: when it is ſaid
+<hi>we are not ſaved by Faith alone, but alſo by Works,</hi> it is to be underſtood, <hi>that Faith is dead without Works,</hi> James 2. 26. So that Faith which works not by <hi>Love,</hi> from whence flows good VVorks, is not a living but <hi>dead Faith,</hi> and not eſteemed of in the ſight of God; but yet we cannot underſtand by this, that our VVorks are to be ſo per<g ref="char:EOLhyphen"/>fect that the Law muſt not be broken, for then what would the Blood of Chriſt ſignify to us? VVho is it that ever liv'd ſo holy but every Day breaks the Law, tho againſt his Deſire? But more of this in another Place. As to the Scripture which ſeems to plead for Perfection of good VVorks and Faith in this Life, or no Salvation, which is <hi>that <g ref="char:V">Ʋ</g>believers, Fearful, and all Lyars ſhall have their Portion in the Lake,</hi> Rom. 21. 8. points that ſuch Perfection is given after this Life, otherwiſe who ſhall be ſaved? this will end the Confuſion that is preach'd. Thus I have given an uniting of the Scripture as to Faith and Works. And for the better underſtanding this, I proceed to the Definition of a juſti<g ref="char:EOLhyphen"/>ing Faith. But firſt let me tell you, Perfection in good Works is taught to be in this Life, and ſo the Error of the <hi>Galatians</hi> is on us, who expected Juſtification by the Law: for they ſay if we repent, we ſhall be forgiven, which I grant; but that which is the Miſtake, and brings us under Bondage again, is, that they allow not Repentance ſufficient without alſo a forſaking of the Sin repented of; and Men not always finding it in their Power ſo to do, fall into Deſpair: So that we had need of a more com<g ref="char:EOLhyphen"/>fortable Doctrine to encourage us in that which is good, and to render us Satisfaction. For I find from the Example of the Primitive Chriſtians, that ſold their Eſtates and gave it to the Poor, that Love draws more than Fear compels.</p>
+            <div type="part">
+               <head>A Definition of a Juſtifying or Saving Faith.</head>
+               <p>A Juſtifying or Saving Faith conſiſts in three parts. 1. To believe that Chriſt ſuffered for Sin, without doubting of it. 2. To love him to that perfection of Love as not to fear, but to be aſſured of our Salvation. 3. To delight in good works, tho <pb n="11" facs="tcp:32513:6"/> we cannot be ſo perfect in them as to keep the whole Law of <hi>Moſes,</hi> or Moral Commands of Chriſt; yet having this Faith, Good Works would be as was in the Primitive Faith, when they ſold their Poſſeſſions, and diſtributed to thoſe that wanted, far ſurpaſſing what is now practiſed: So that
+<hi>believing without doubting, aſſurance of Salvation, and good Works, make up one Faith for Juſtification.</hi> And if one of theſe three parts be wanting the Faith is not Juſtifying, and ſo by conſequence nor Saving: Whence all three parts put together make up ſuch a Faith as we muſt have, either in this World or the World to come, or no Salvation.</p>
+            </div>
+            <div type="part">
+               <head>Proofs of this Faith in every part of it.</head>
+               <p n="1">1. He that doubts whether Chriſt ſuffered or not doth not be<g ref="char:EOLhyphen"/>lieve; for <hi>he that doubteth, is damned iſ he eats, becauſe he eateth not of Faith,</hi> Rom. 14. 23. queſtioning the lawfulneſs or unlaw<g ref="char:EOLhyphen"/>fulneſs of the Meat he eats; which ſhews that a doubting Faith is a damning Faith. But, in objection to this, we ſay Chriſt healed the Man that ſaid, <hi>Lord, I believe, help my <g ref="char:V">Ʋ</g>nbelief:</hi> So he healed all that were diſeaſed of their Bodies that came unto him, whether Believers or Unbelievers: yet without this Faith there's no Salvation. And as to his not quenching the ſmoaking Flax that's in ſome, for it's certain that
+<hi>Iſrael</hi> in part are con<g ref="char:EOLhyphen"/>cluded in Unbelief, born to die in Unbelief: And indeed the Faith now in general is a doubting, wavering, ſeeking Faith, and Books are now writ to prove the Scriptures the word of God, there being ſo little credit given to them.</p>
+               <p n="2">2. The ſecond part of this Faith is <hi>aſſurance of Salvation: It is neither Circumciſion, nor <g ref="char:V">Ʋ</g>ncircumciſion, that availeth, but Faith that works by love,</hi> Gal. 5. 6. Hence, 'tis a Faith that works by love that is ſaving or available, and this Faith which works by Love is not made perfect, if Fear be not extinguiſhed; as 'tis writ, <hi>He that fears is not made perfect in love,</hi> 1 John 4. 18. Now if 1 queſtion whether God loves me ſo well as to ſave me, I am in fear, and <hi>where there is Fear there is Torment,</hi> John 4. 18. So that it's evident a Faith which works by Love is made perfect, by <hi>a caſting out of Fear,</hi> which cannot be till there be <hi>an aſſurance of Salvation;</hi> this being ſo clearly proved, proves the firſt part of Faith to be true, that doubting is not believing, for <hi>who can be ſure of his Salvation that doubts of Chriſt's Suffering?</hi>
+               </p>
+               <p n="3">3. The third part of this Saving Faith, is, <hi>to delight in good Works,</hi> tho we cannot be ſo perfect in them in this Life, as to
+<pb n="12" facs="tcp:32513:7"/> keep the whole Law of <hi>Moſes,</hi> and Moral Commands of Chriſt. The Error that the fooliſh <hi>Galatians</hi> were under, is the ſame as now <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which was, that they ſought Juſtification by being ſo
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> good Works, that they were able to keep the Law, or <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> committing Sin; as if we muſt firſt keep the Law
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> before we can have an Intereſt in Chriſt: As <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o abſurd as to ſay they can live without <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> But
+<hi>Paul</hi> tells them, he <hi>preached the Goſpel to them
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the Fleſh;</hi> and in the next Verſe, he calls this <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> in the Fleſh,</hi> which was Sin<g ref="char:punc">▪</g> And in that
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſo
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> they muſt have ſeen it, becauſe <hi>Paul</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> this his Temptation in the Fleſh; which the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>efo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e muſt be a viſible Sin or Temptation, <hi>Gal.</hi> 4<g ref="char:punc">▪</g> 13, 14.
+<gap reason="illegible" resp="#OXF" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> may go far and not be perfect. 1 <hi>Cor.</hi> 13<g ref="char:punc">▪</g> 'Tis <hi>
+                     <gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>rity</hi> that is the tryal of a Chriſtian's Faith, and <hi>it never faileth:</hi> The
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſatisfaction of future Joys opens the Hearts of Men, but Unbelievers hold it beſt to be ſure of keeping what they have here, for fear of not being recompenc'd hereafter. But I would not have you miſtake the Apoſtle, when he ſaith <hi>Though I beſtow all my <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to the Poor, and have not Charity, it profiteth me nothing
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Paul</hi> doth not ſay, he that giveth his Goods to the Poor <hi>for Chriſt
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſake</hi> hath not Charity, that cannot be but to give them in O<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>u<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ation or Pride: <hi>For Charity covereth a mul<g ref="char:EOLhyphen"/>titude of Sins,</hi>
+1 Pet. 4. 8<g ref="char:punc">▪</g> and <hi>true Charity ſuſſereth long,</hi> or <hi>is patient, and is kind, and e<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vieth not<g ref="char:punc">▪</g> 
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>aunteth not it ſelf, is not puffed up<g ref="char:punc">▪</g> and doth not unſeemly beleave it ſelf,</hi> eſpecially towards the Poor, as if they were not his Fellow-Creatures. <hi>Paul</hi> preach'd Sin unavoidable<g ref="char:punc">▪</g> ſo that if he had found in himſelf, that he could have avoided it altogether, he could not have let his Experience and Doctrine ſo contradict each other; for in <hi>Rom.</hi> 7. 21<g ref="char:punc">▪</g> he thus writes: <hi>I find then a Law, that when I would do good, evil it preſent with me.</hi> Again, ver. 18.
+<hi>to will is pre<g ref="char:EOLhyphen"/>ſent with me, but
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to perform that which is good, I find not<g ref="char:punc">▪</g>
+                  </hi> and much more in that Chapter to the ſame purpoſe: And in<g ref="char:EOLhyphen"/>deed <hi>the Fleſh luſteth againſt the Spirit<g ref="char:punc">▪</g> that we cannot do the things we would<g ref="char:punc">▪</g>
+                  </hi> Gal. 5. 17. But i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> objection to this, we read
+<hi>Paul got the Victory<g ref="char:punc">▪</g>
+                  </hi> 1 Cor. 15.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7. but there he ſaith<g ref="char:punc">▪</g> 
+                  <hi>it was through Chriſt, that God gave him the Victory
+<gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Sin and Death,</hi> that is, in reference to another World; otherwiſe we muſt conclude he never died here in the Fleſh: The Spirit of Chriſt moved in him to do that which was good, yet he teaches that he had a
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Temptation in the Fleſh, and preach'd a Doctrine ſu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>able<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>; and ſuppoſe he got the Victory over Sin, how ſhould <pb n="13" facs="tcp:32513:7"/> the <hi>Jews</hi> over their Unbelief? In <hi>John</hi> 3. it's ſaid, <hi>He tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> obideth in Chriſt ſinneth not.</hi> And in John 1. 8. <hi>If we ſay we have no Sin, we deceive our ſelves, &amp;c.</hi> This is the ſame as <hi>Paul</hi> ſaid, '<hi>Tis no more I that do it, but Sin that is in me;</hi> he did commit Sin but not willingly with a deſire to commit it: But alas
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> thoſe that have not a Beam in their Eyes, may (by reading what is commanded, and how far ſhort they come of it) eaſily diſcern they cannot live one Day without committing one
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in or another.</p>
+               <p>Now let us ſee how far ſhort Men come of the Works of thoſe that had this Faith; we find St. <hi>Paul</hi> work'd to maintain him<g ref="char:EOLhyphen"/>ſelf, caring not to burden the Church, 2 <hi>Theſſ.</hi> 3. 8,
+9<g ref="char:punc">▪</g> and left it for <hi>an Example.</hi> Where the Holy Ghoſt was evidently given, <hi>that Comforter,</hi> Joh. 16. 7. <hi>that ſweetneſs of the Powers Above,</hi> that gave them aſſurance of Salvation, and raviſhed them with ſuch Celeſtial tranſporting Joys, (without which we may be ſaid to be in Hell) that this World and all its Glory was <hi>as dung,</hi> Phil. 3. 8. <hi>They ſold their Poſſeſſions, and diſtribute<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> their Bre<g ref="char:EOLhyphen"/>thren the Chriſtians wanted, and accounted nothing their own they poſſeſſed,</hi> Acts 4. 32. and this was eaſy to them that had a ſaving Faith, or aſſurance of Salvation, whereby the Love of God was ſpread abroad in their Hearts; but theſe are hard
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> theſe Days.</p>
+               <p>Thus have I ended the Deſcription of Saving Faith, without which a Man cannot be ſaved; ſo that if there were ſuch a lo<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Place of Torment as a Hell-Fire after this Life<g ref="char:punc">▪</g> who can by his Faith eſcape it? But I have proved in my
+<hi>Clavis Aurea</hi> and will make it more plain here, that Faith is given
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> this Life, and therein muſt reſt our Satisfaction, for little Signs of Faith are now; and I paſs by the miraculous Cures o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Apoſtles, and their raiſing the Dead, as Signs of their Faith, But if Covetouſ<g ref="char:EOLhyphen"/>neſs<g ref="char:punc">▪</g> Pride, Envy, <hi>&amp;c.</hi> be Signs of Faith<g ref="char:punc">▪</g> we ſee enough, rich Apparel, and out-vying one another, inſtead of ſearching out and viſiting diſtreſſed Familes. 'Tis
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> themſelves give good Examples in this kind <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> may be they will not let their right Hands know wha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> Hands do.</p>
+            </div>
+            <div type="part">
+               <head>An opening of ſome Obſcure Places in the <hi>Clavis Aurea.</hi>
+               </head>
+               <p>In Page 6, and 7. it's prov'd <hi>that Blindneſs in part
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> happened
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o</hi> Iſrael, <hi>till the Fulneſs of the</hi> Gentiles <hi>be came in</hi> Rom 11. 25. But to be more plain, if this Unbelief was not ordained for them, <pb n="14" facs="tcp:32513:8"/> and to continue till the Fulneſs of the <hi>Gentiles</hi> were come in, How came St. <hi>Paul</hi> to know this? And ſuch Unbelief could not be foreſeen, if Free-will was intended for theſe Men, multitudes of them not being born: The Fulneſs of the <hi>Gentiles</hi> is when the <hi>Jews</hi> are called, evident from the Text, <hi>(viz) Blindneſs in part is happened unto</hi> Iſrael, <hi>till the Fulneſs of the</hi> Gentiles <hi>be come in:</hi> The Fulneſs of the <hi>Gentiles</hi> alſo, is <hi>when the Deliverer comes out of</hi> Sion, <hi>to turn Iniquity from</hi> Jacob, <hi>Rom.</hi> 11. 26. which Iniquity cannot be turned away but by Faith; for as long as Unbelief remains upon them, their Iniquity remains: And ſo long as <hi>Je<g ref="char:EOLhyphen"/>ruſalem</hi> lies trodden under-foot, the Fulneſs of the <hi>Gentiles</hi> are not come in; as
+'tis writ, Jeruſalem <hi>ſhall be trodden down of the</hi> Gentiles,
+<hi>till the times of the</hi> Gentiles <hi>be fulfilled,</hi> Luke 21. 24. From this then we muſt allow, that multitudes of the <hi>Jews</hi> were ordained, before they were born, to die in Unbelief, and amongſt ſuch multitudes the groſſeſt Sins have been commit<g ref="char:EOLhyphen"/>ted: Yet the Scriptures tell us, <hi>All</hi> Iſrael <hi>ſhall be ſaved, they being Enemies alſo to the Goſpel, yet are elected and beloved,</hi> Rom. 11. 25. 28. All the Reaſon then that the <hi>Jews</hi> are broken off through Unbelief, can be no other (as the Scripture tells you) but <hi>that the</hi> Gentiles
+<hi>might be grafted in,</hi> Rom. 11. 17. And ſo Sin and Unbelief is not the Original Cauſe that <hi>all are not</hi> Iſrael <hi>which are of</hi> Iſrael; 'tis only a Diſtinction between the Children of the Fleſh and Children of the Promiſe: As 'tis writ, <hi>the Chil<g ref="char:EOLhyphen"/>dren of the Fleſh are not the Children of God, but the Children of the Promiſe are accounted for the Seed,</hi> Rom. 9. 8. The very Text it ſelf tells you they are termed
+<hi>Iſrael,</hi> though they are born to die in Unbelief, in that it ſaith,
+<hi>Blindneſs in part is happened unto</hi> Iſrael, <hi>till the Fulneſs of the</hi> Gentiles <hi>be come in,</hi> Rom. 11. 25. It's but rational then<g ref="char:punc">▪</g> that theſe <hi>unavoidable <g ref="char:V">Ʋ</g>nbelievers</hi> ſhould be ſaved, and the Scripture agrees with it; and beſides Unbelief is a Cauſe of Sin, as for want of a Saving Faith Men are cove<g ref="char:EOLhyphen"/>tous, proud, <hi>&amp;c.</hi> having only <hi>a form of Godlin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſs:</hi> Theſe Unbe<g ref="char:EOLhyphen"/>lievers and Sinners are notwithſtanding termed <hi>Iſrael,</hi> and the following Text ſaith, <hi>All</hi> Iſrael
+<hi>ſhall be ſaved,</hi> ver. 26. So that the Children of the
+<hi>Promiſe</hi> muſt be all Men in the Spirit, in their Glorified Eſtate, tho they are the groſſeſt Unbelievers and Sinners in the
+<hi>Fleſh:</hi> and this is very eaſy to believe, ſince there is no Free-will in Faith, and Unbelief is the Cauſe of groſs Sins committed: And in Sin there is not Free-will, but ſome are made Veſſels of
+<hi>Wrath,</hi> as <hi>Judas</hi> to betray, and ſome are made Veſſels of
+<hi>Mercy,</hi> as <hi>Paul,</hi> who was <hi>created in Chriſt unto good Works, which God before ordained be ſhould walk in them,</hi> Eph. 2. 10.
+<pb n="15" facs="tcp:32513:8"/> And ſince ſuch Examples are, I would know the Reaſon why we muſt aſcribe more Free-will to our Selves than the <hi>Jews, Judas</hi> and <hi>Paul?</hi> And why muſt not we draw a <hi>General Rule</hi> from theſe <hi>Particular Examples,</hi> as well as <hi>Paul</hi> did from the Example of <hi>Pharoah's</hi> hardneſs of Heart:
+<hi>Therefore</hi> (ſaith <hi>Paul) hath he Mercy on whom he will, and whom he will, he hardens,</hi> Rom. 9. 18. They being then ſuch Unbelievers, ordained to Unbelief, and <hi>born to die in Unbelief,</hi> yet are ſaved, there can be no Hell Fire after this Life; conſidering alſo that amongſt ſuch multitudes that die in Unbelief they have committed the groſſeſt Sins. But to pro<g ref="char:EOLhyphen"/>ceed farther, the Promiſe extends it ſelf (as 'tis as reaſonable) to all Nations, nay to all Families of the Earth; we ſee Sin nor Unbelief being no more a hindrance to its Extenſion, than the premeditated Lye of <hi>Jacob</hi> was to the receiving of the Bleſſing: ſaying, <hi>I am</hi> Eſau <hi>thy firſt-born,</hi> Gen. 27. The Promiſe is this<g ref="char:punc">▪</g> Gen. 26. 4. <hi>I will multiply thy Seed as the Stars of Heaven,</hi> &amp;c. <hi>and in thy Seed ſhall all Nations of the Earth be bleſſed.</hi> It's thus confirmed again, Gen. 28. 14. <hi>And thy Seed ſhall be as the Duſt of the Earth,</hi> &amp;c. <hi>and in thee, and in thy Seed ſhall all Families of the Earth be bleſſed.</hi> And it appears in
+<hi>Gal.</hi> 3. 16. that this Seed was Chriſt; <hi>Now to</hi> Abraham
+<hi>and his Seed were the Promiſes made, He ſaith not, And to Seeds, as of many; but as of one, And to thy Seed, which is Chriſt.</hi> Again, ver. 8.
+<hi>And the Scripture foreſeeing that God would juſtify the Heathen through Faith, preach'd before the Goſpel</hi> (obſerve Goſpel) <hi>unto</hi> Abraham, <hi>ſaying, In thee ſhall all Nations be bleſſed.</hi> Sin nor Unbelief not fruſtrating the extent of this Promiſe, as hath been proved, and good reaſon for it; ſince there's no Free-will. Another Argument to prove this, is, that the <hi>25th verſe</hi> is the Senſe foregoing to the
+<hi>28th verſe</hi> of <hi>Rom.</hi> 11. So that <hi>Who are thoſe</hi> Iſrael, <hi>to whom Blindneſs in part is happened, till the Fulneſs of the</hi> Gentiles <hi>be come in,</hi> and ſo are born to die in Unbelief? why they are thoſe who <hi>as concerning the Goſpel, are Enemies for your</hi> (or the <hi>Gentiles) ſake: but as touching the Election, are beloved for the Fathers ſake,</hi> ver. 28. and the <hi>25th verſe</hi> muſt be the Senſe to the <hi>28th verſe:</hi> For we muſt not think to make the Senſe to be what we pleaſe, but what the Scripture makes. Again, the whole Chapter ſpeaks of the <hi>Branch broken off,</hi> and the <hi>25th verſe</hi> tells you how long this Branch is to be broken off, which is,
+<hi>till the Fulneſs of the</hi> Gentiles <hi>be come in.</hi> Several other Rea<g ref="char:EOLhyphen"/>ſons I have given in my <hi>Clavis Aurea,</hi> as <hi>that</hi> Iſrael
+<hi>had a Zeal to God,</hi> Rom. 10. 2. <hi>though not according to Knowledg.</hi> And this Knowledg they could not have, becauſe
+<hi>Iſaiah</hi> ſaid, <hi>Go unto this People, and ſay, Hearing ye ſhall bear, and ſhall not underſtand; <pb n="16" facs="tcp:32513:9"/> and ſeeing ye ſhall ſee, and not perceive. For the Heart of this peo<g ref="char:EOLhyphen"/>ple is waxed groſs, and their Ears are dull of hearing, and their Eyes have they cloſed; leſt they ſhould ſee with their Eyes, and hear with their Ears, and underſtand with their Heart, and ſhould be converted, and I ſhould heal them,</hi> Acts 28. 26, 27. Can we think then, they would not believe if they thought it for their Intereſt, having a <hi>Zeal to God,</hi> Rom. 10.
+<hi>Had they known it, they would never have Crucified the Lord of Glory,</hi>
+1 Cor. 2. 8. Chriſt was willing to ſave them, in that he prayed for them,
+<hi>Father, forgive them; they know not what they do,</hi> Luke 23. 34. And obſerve that excellent Text of <hi>John</hi> 12. 47, &amp;c. <hi>If any Man hear my Words, and believe not, I judg him not: for I come not to judg the World, but to ſave the World:</hi> which <hi>Words</hi> he ſaith, <hi>were his Fa<g ref="char:EOLhyphen"/>thers Words, and his Father's Words were Life everlaſting.</hi> But ſome may object, that <hi>Blindneſs in part,</hi> may ſignify they partly believe and partly doubt. I anſwer, Experience and Scripture (as I have proved) inform us that they have been Enemies to the Goſpel in the Apoſtles Days, and ſtill die in Unbelief, and ex<g ref="char:EOLhyphen"/>pect the <hi>Meſſiah</hi> when he comes, to be no other than a Tempo<g ref="char:EOLhyphen"/>ral Prince, or a Captain to lead them to
+<hi>Judea</hi> to build <hi>Jeruſa<g ref="char:EOLhyphen"/>lem</hi> again. Beſides a <hi>doubting Faith</hi> is a <hi>damning Faith,</hi> as I have proved in my Definicion of a Saving Faith: <hi>They have not ſtumbled that they ſhould</hi> (eternally)
+<hi>fall,</hi> which <hi>God forbid: but rather through their fall</hi> (now)
+<hi>Salvation is come to the</hi> Gentiles, <hi>and is the enriching of the World,</hi> Rom. 11. 11, 12. and ſo at laſt <hi>Chriſt is the Saviour of all Men,</hi> (tho at the preſent) <hi>eſpecially of thoſe that believe,</hi> 1 Tim. 4. 10. For <hi>he will</hi> (at laſt) <hi>have all Men</hi> (tho not in this Life) <hi>come to the knowledg of the Truth,</hi> 1 Tim. 2. 4. And <hi>the Heavens doth contain Chriſt, till the reſti<g ref="char:EOLhyphen"/>tution of all things,</hi> Acts 3. 21. And <hi>He gave himſelf a Ranſom for all, to be teſtified in due time,</hi> 1 Tim. 2. 6. And is it not ſaid, <hi>I will ſend you</hi> Elijah <hi>the Prophet,</hi> &amp;c. <hi>and he ſhall prepare,</hi> &amp;c. <hi>left I ſmite the Earth with a Curſe,</hi> Mal. 4.
+5, 6. But if there be a caſting of Men into everlaſting Torment, or Fire, at Chriſt's ſecond coming, how ſhall a Curſe be turn'd from the Earth, and all things reſtor'd? Thus have I clear'd the beginning of <hi>Page</hi>
+10. where I ſay that the <hi>Children of the Fleſh</hi> are all Men in the Fleſh, and <hi>Children of the Promiſe</hi> are all Men in their glorified Eſtate, that ever were, are, or ſhall be, of what Nation, Fa<g ref="char:EOLhyphen"/>mily, or Belief. Otherwiſe we'll ſuppoſe a Hell-Fire after this Life, and then who can eſcape i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>? Can others with their una<g ref="char:EOLhyphen"/>voidable Unbelief, or we with our Faith, which comes ſo ſhort of a Saving Faith?</p>
+               <p>
+                  <pb n="17" facs="tcp:32513:9"/>Parables, in <hi>Page</hi> 12. of the
+<hi>Clavis Aurea,</hi> I ſay are not Re<g ref="char:EOLhyphen"/>alities; our Saviour <hi>ſpoke in Parables, things kept ſecret from the Foumdation of the World; and without a Parable ſpake he nothing unto them,</hi> Mat. 13. 34, 35. And as theſe Parables blinded the <hi>Jews,</hi> ſo they do us; whereas <hi>the Kingdom of H<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aven is like unto Leaven, hid in three Meaſures of Meal, till the whole was leavened,</hi> ver. 33. I have in my Ep<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtle told you, that all Scripture, if righty interpreted from the Original, is all true, and none falſe, and ſo cannot be brought to contradict each other really, for then ſome of them muſt be f<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lſe: Scriptures then that carry a double Senſe prove nothing, but muſt be brough<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> agree to ſome infallible place of Scripture which will carry
+<gap reason="illegible" resp="#OXF" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> her Senſe, then its own literal Senſe, Experience alſo confirming that Senſe to be true. As Rom.
+11. 25. <hi>Blindneſs in part is happened unto</hi> Iſrael, <hi>until the Fulneſs of the</hi> Gentiles <hi>be come in.</hi> And then this being fully underſtood, as before I have ſufficiently diſcours'd, Experience alſo confirming its literal Senſe true, which therefore is an infallible Expoſition; the next verſe then appears rational to be true, in that
+<hi>All</hi> Iſrael <hi>ſhall be ſaved,</hi> ver. 26. and neither
+<hi>Sin</hi> nor <hi>
+                     <g ref="char:V">Ʋ</g>nbelief</hi> can fruſtrate the Salvation of ſuch
+<hi>Multitudes</hi> that are <hi>born</hi> to die in Unbelief, and have committed the <hi>groſſeſt Sins</hi> (there being no Free-will;) Unbelief alſo being the Propogator of Sin: We muſt unite Parables which carry a double Senſe to theſe Text of <hi>Rom.</hi> 11. <hi>ver.</hi> 25, and 26. or no Satisfaction can be drawn from them; beſides ſuch Expoſitions cannot deceive us, as have ſuch a <hi>ſure Standard</hi> to try them by. And ſo in the firſt place I obſerve the Parable of the Goats and the Sheep, as a Pattern for the reſt to be explain'd by, which is in
+<hi>Mat.</hi> 25. <hi>ver.</hi> 31, <hi>&amp;c.</hi> its writ, <hi>When the Son of Man, with Angels ſhall come in Glory and ſit on the Throne of his Glory; all Nations ſhall be gothered before him, and he ſhall ſeperate the Goats from the Sheep: and ſet the Goats on his left Hand</hi> (as a Figure of Rejection) <hi>and the Sheep on his right Hand</hi> (as a Figure of Election): To the uncharitable Goats he bids, <hi>Depart ye Curſed into everlaſting Fire prepared for the Devil and his Angels:</hi> But to the charitable Sheep he ſaith, <hi>Come ye bleſſed of my Father, receive ye the Kingdom of Heaven prepared<g ref="char:punc">▪</g> for you from the Foundation of the World,</hi> &amp;c. It's plain this is a Parable, and which muſt we realy upon, Parables that carry a double Senſe, or Texts of Scripture that Experience makes its Expoſition infallible? which if granted, as cannot be denyed, but that we muſt adhere to an infallible Expoſition, and all Scriptures being true and none falſe, and ſo muſt not contradict <pb n="18" facs="tcp:32513:10"/> one another really; all Scriptures then that carry a double Senſe, muſt be united to ſuch Scriptures whoſe literial Senſe, Experience and Reaſon confirms, which is
+<hi>Rom.</hi> 11. 25, and 26, <hi>verſes.</hi> Do we think then that Chriſt will come and ſit upon a Throne judging the World<g ref="char:punc">▪</g> when he hath already declar'd the Salvation of all <hi>Iſrael,</hi> which as touthing the Promiſe are all Men? The manner of the ſecond coming of Chriſt is in another manner expreſt in 1 Theſſ. 4. 14, 15, 16, 17, 18. <hi>God will bring them with him which ſleep in Jeſus: and thoſe that remain ſhall be caught up with them in the Clouds, to meet the Lord in the Air;</hi> and
+<hi>Paul</hi> bids them <hi>comfort one another with theſe words.</hi> We ſee then Men receive their Doom as they Die, in that thoſe that are aſleep in Jeſus God brings with him, and in that he bids them comfort themſelves with theſe Words; there would be little comfort in a Judgment that one Man ſhall be caſt into a Hell-Fire, and another Sav'd; like as Men in our Courts of Judicature, one condemn'd to be hang'd before a ſitting Judge, and another ſav'd: But here thoſe that <hi>remain are caught up to meet the Lord in the Air</hi> not that there is a ſitting and trying of Men, for then either by <hi>Works</hi> or <hi>Faith</hi> who ſhall be ſav'd? but
+<hi>Paul</hi> makes this Parable exactly agree to <hi>Rom.</hi> 11. 25, 26. as it is unfolded <hi>by Rom.</hi> 9. 8. <hi>the Children of the Fleſh, theſe are not the Children of God, but the Children of the Promiſe are accounted for the Seed:</hi> For in 1 <hi>Cor.</hi> 15. <hi>ver.</hi> 42. to the end of the Chapter, where is a Diſtinction between the Children of the Fleſh and Promiſe, and particularly in the <hi>50th Verſe, Fleſh and Blood cannot inherit the Kingdom of Heaven:</hi> And it follows, <hi>in a Moment, in the twinckling of an Eye, the Dead ſhall be raiſed in<g ref="char:EOLhyphen"/>corruptible, and we ſhall be chang'd.</hi> So that this Parabolical or Sit<g ref="char:EOLhyphen"/>ting Judgment figurates God's ſecret Decree of everlaſtingly de<g ref="char:EOLhyphen"/>ſtroying the Children of the Fleſh, by changing them, and ſo as they were the Children of the Fleſh they are <hi>puniſhed with everlaſting deſtruction from the preſence of God,</hi> 2 Theſſ. 1. 9. the everlaſting Fire here is his wrath everlaſting againſt the Children of the Fleſh, as it is againſt Death, which he deſtroyed by raiſing it to life; and ſo it will agree to
+<hi>Rom.</hi> 11. 25, 26. which it muſt not contridict, and that's our Satisfaction. Have any yet pretended to define this Hell-Fire which Spirits are ſaid to be caſt into? Will Elementary Fire burn them? Dr.
+<hi>Til<g ref="char:EOLhyphen"/>lotſon</hi> in his <hi>35th</hi> Sermon ſaith, That Hell-Fire may be threat<g ref="char:EOLhyphen"/>ned but not intended; whereby it's evident he can prove no ſuch real Place, nor any Perſon caſt into it. Too many ſay there's no eternal Death but Hell-Fire, what then did Chriſt <pb n="19" facs="tcp:32513:10"/> deliver us from? I anſwer, Call the Soul what you pleaſe, it's created, and ſo God can reduce it to its firſt nothing; or not created, and then it can be nothing but God himſel<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, which he cannot kill nor burn: And there cannot be a Seperation be<g ref="char:EOLhyphen"/>tween the Spirit of God and God, no more than you can ſepe<g ref="char:EOLhyphen"/>rate the Rays of the Sun from the Sun.</p>
+               <p>What I have writ is more true, if we conſider that the Puniſhment of <hi>
+                     <g ref="char:V">Ʋ</g>nbelievers is Damnation,</hi> in Mark 16. 16. And in Rev. 21. 8. <hi>
+                     <g ref="char:V">Ʋ</g>nbelievers are caſt into the Lake of Fire and Brimſtone:</hi> Yet Men are born to die in Unbelief as I have proved. How then ſhall either the <hi>Jews</hi> avoid this Lake by their Unbelief, or we by our Faith which ſo far comes ſhort of a Saving Fatth? But I find another thing in Scrip<g ref="char:EOLhyphen"/>ture, that terrible things are expreſs'd to come upon Earth, far more terrible than any Man ever ſaw in a literal Senſe; as can we think
+<hi>that God would give Power to a Beaſt, to make Fire come down from Heaven to deceive Men,</hi> (which muſt needs do it) and <hi>to give him Power to overcome the Saints,</hi> and <hi>to cauſe all that would not worſhip him, neither to buy or ſell,</hi> (whereby they muſt be ſtarv'd) <hi>and to be kill'd, without they worſhip him, and receive his Mark and then to caſt thoſe Men,</hi> (that are thus compell'd and deceiv'd to receive his Mark)
+<hi>into a</hi> real <hi>Lake of Fire and Brimſtone?</hi> Rev. 13. and 14. this being not conſonant to the Sweetneſs of the Powers Above: We muſt conclude then <hi>by this Fire</hi> is meant <hi>the Wrath of God cutting off all Men in the Fleſh, or the Troubles of this Life we are all caſt into,</hi> tho ſome more than others. We find other terrible Places, which tell us <hi>of a ſmoak<g ref="char:EOLhyphen"/>ing Pit, and out of it came Locuſts upon the Earth, and had the Power of Scorpions, not to kill Men, but to torment them five Months:</hi> But who ever ſaw ſuch? or who ever ſaw <hi>the third part of Men kill'd by Horſes, with Heads like Lyons, or by Smoak, and Fire and Brimſtone that came out of their Mouths,</hi> Rev. 9. Figures then in Scripture are more terrible than their Subſtance they denote: And upon other Occaſions we find the Figures greater than the Subſtance they figurate; as the rejoycing in <hi>Solomon's</hi> Days, <hi>That the Earth rent with the ſound,</hi> 1 Kings 1. 40. and <hi>Silver was as the Stones,</hi> 1 Kings 10.
+27. and <hi>the Men of</hi> Benjamen <hi>ſting Stones to a Hairs breadth and not miſs,</hi> Judges 20. 16. and in John 21. <hi>Toat he ſuppoſed the World would not contain the Books that could be written of what Chriſt did,</hi> We read of <hi>Sodom</hi> and <hi>Gomorrha are ſet forth for an Example, ſuffering the vengeance of eternal Fire,</hi> Jude 7. and
+<hi>Peter</hi> explains this, 1 Pet. 4. 6. <hi>For this Cauſe was the Goſpel preacht to them that are Dead, that they <pb n="20" facs="tcp:32513:11"/> might be judg'd according to Men in the Fleſh but live according to God in the Spi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>it:</hi> for me to unite all terrible places of Scripture to <hi>Rom.</hi> 11, <hi>&amp;c.</hi> would ſwell this into a large Volum, but they can<g ref="char:EOLhyphen"/>not contradict that Text of
+<hi>Rom.</hi> 11. 25, 26. for then ſome Scriptures muſt be true and ſome falſe.</p>
+               <p>But, I ſay, i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> there <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e a Hell-Fire, let's ſee how we ſhall eſcape it? Where's our Saving Faith? or, how ſhall <hi>Iſrael</hi> eſcape it? and as to our works can we have no Satisfaction till we can live without commiring Sin? This would be hard indeed, and ſo we have a Goſpel in vain, this is a great miſtake, and I have prov'd the contrary; but you may ſay, if the fear of Hell be taken away and Love not given, this will encourage to Sin<g ref="char:punc">▪</g> I anſwer, if there were Free-will it might do ſo, but no Man can ſoften or harden his own Heart: God can take away this fear of Hell, and not give his Love, and ſo make it a means to allure to Sin, or he can by taking away this fear of Hell, make it a meanes to love him the more, 'tis as he pleaſes to move in us<g ref="char:punc">▪</g> the Mercies of God mov'd <hi>Paul</hi> to pleaſe him the more, but they were far better Chriſtians that Love hath allur'd than that Fear hath compelled: The Primitive Chriſtians who were ſure of their Salvation, and fear'd it not, compar'd with the Chriſtians of our Age who fear a Hell, may ſoon (I ſay) decide this, for who now will ſell his Poſeſſions and diſtribute them to the poor? As in <hi>Acts</hi> 4. 32. If then we would be doing what is good, for Satisfaction of Salvation, let us not fear Hell, which hin<g ref="char:EOLhyphen"/>ders us from the love of God, and deny Free-will which makes as in Charity with our Neighbour; and that's the Reaſon that <hi>love is the fullfilling of the Law, Rom.</hi>
+13. 10. and without love there's no Religion, can threatning to b<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n me, make me love? Love is not to<g ref="char:punc">▪</g> be forc'd by Fire, but allur'd or drawn by Mercy. And the better to ſatisfie you againſt a Hell, that you may love, obſerve in Scripture, that altho <hi>Good be commanded, the contrary Evil</hi> is ſaid <hi>ſhall be;</hi> (viz.) <hi>Work out your Salvation with fear and trembling,</hi> Phil.
+2. 13. yet <hi>he that fears is not made perfect in Love,</hi> 1<g ref="char:punc">▪</g> John. 4.
+18 <hi>and the fearful are caſt into a Lake,</hi> Rev. 21. 8. One Text ſaith, <hi>thou ſhall love God with all thy Heart,</hi> &amp;c. yet <hi>Men ſhall be lovers of themſelves, more than lovers of God,</hi> 2 Tim 3. 4. it's writ, <hi>love thy Neighbour as thy Self;</hi> and another Text ſaith,
+<hi>I have ſet all Men every one againſt his Neighbour</hi> Z<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch. 8. 10. We are commanded not
+<hi>to covet,</hi> yet <hi>
+                     <gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> ſhall be Covetous, Proud, Blaſphemers,</hi> &amp;c. 2 Tim. 3. 2.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t's writ <hi>then ſhalt not kill,</hi> yet <hi>Prophets and Apoſtles are ſent, and
+<gap reason="illegible" resp="#OXF" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> of them they ſhall kill,</hi> Mat. 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 49, 50. nay, <hi>and think <pb n="21" facs="tcp:32513:11"/> they do God good Servce.</hi> And when ſuch Blaſohemies, Mur<g ref="char:EOLhyphen"/>ders, Pride. Covetouſneſs, Unbelief,
+<hi>&amp;c.</hi> are compell'd on Men, and that a real Hell-Fire muſt be the Puniſhment of it, it cannot be.</p>
+               <p>Object. <hi>Sin is made the Puniſhment of Sin, that's an Argument it was not ordain'd.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> It was Murder, and the greateſt of Murders to kill Chriſt, as being the <hi>Lord of Glory;</hi> and by no Law they could do it. Well then, <hi>Chriſt was ordain'd to be ſlain from the Foundation of the World,</hi> Rev. 13. 8. which was before <hi>Adam</hi> was created; and this <hi>was kept ſecret ſince the World began,</hi> Rom. 16. 25. And when Chriſt came to ſuffer, (it was not till his <hi>very Hour was come</hi> that they had Power over him, <hi>John</hi> 7. 30.) he tells Pilate <hi>that he had no Power over him, except it were gi<g ref="char:EOLhyphen"/>ven him from Above.</hi> And more than that, he ſaith in <hi>John</hi> 10. 17. <hi>That he laid down his own Life, no Man took it from him.</hi> again, <hi>I lay it down my ſelf,</hi> ver. 18. How then could the <hi>Jews</hi> and <hi>Judas</hi> avoid the effecting of this? How then was this or<g ref="char:EOLhyphen"/>dained as a Puniſhment for Sin, before Man was created? And how can part of <hi>Iſrael,</hi> ordained to Unbelief before they are born, be for Sins committed by them? And if God did make the Commiſſion of one Sin as a Puniſhment of another Sin be<g ref="char:EOLhyphen"/>fore committed, it's no Argument but that he is the Author of Sin. As for that Objection
+<hi>that God permits Sin;</hi> he muſt of ne<g ref="char:EOLhyphen"/>ceſſity permit what he owns to do himſelf.</p>
+               <p>Object. <hi>If Sin be an Informity, and unavoidable, as in <g ref="char:V">Ʋ</g>nbelief, Fear, Anger, Murder</hi> &amp;c. <hi>How ſhall I ſix an Idea, or conceive that it can be a Sin? And how can Man be the Subject of Puniſhment and Reward?</hi> I anſwer, Sin is a breach of what's commanded, and that through Infirmty, as I have proved in the Unbelief of
+<hi>Iſrael,</hi> and that when we <hi>would do Good, Evil is preſent,</hi> as I have already diſcourſed. So that Man cannot be ſaid to be really Good or Evil by the way of freewill but by the way of Exam<g ref="char:EOLhyphen"/>ple to ſet forth, by commanding what is Good, that we might know Good, and then forcing us to break thoſe Commands, that we might know what is Evil; and then rewarding the Good he makes us do, to ſet forth his Love to that which is Good; and puniſhing that Evil he makes us do, to ſet forth his hatred to Evil: So that both the Sin and the Puniſhment are inevitable, whereby alſo his Terrors are made known, and his Wiſdom in confounding the Wiſdom of the World in this My<g ref="char:EOLhyphen"/>ſtery of <hi>Iniquity,</hi> which the Scripture ſaith
+<hi>ſhall abound,</hi> Mat. 24. 12. as P<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul <hi>was created in Chriſt unto Good Works, which God <pb n="22" facs="tcp:32513:12"/> before ordaiued he ſhould walk in them,</hi> Eph. 2. 10. as <hi>Judas</hi> was compelled to betray Chriſt. Thus
+<hi>ſtrait hath been the Gate, and narrow hath been the Path</hi> (which is Faith in this Life) <hi>and who can find it?</hi> Bu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God is able to give it us after this Life as he will do; and from ſuch particular Examples, we may with <hi>Paul</hi> draw a General Rule: And don't we ſee now Veſſels of Wrath fitted to Dectruction, as Plotters. who are ſo conceited in freewill, that think things to be kept ſecret, when it's fre<g ref="char:EOLhyphen"/>quent for one of their own Pa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ti<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s to betray them: ſome hang themſelves. ſome drown themſelves <hi>&amp;c.</hi> But theſe are only Temporal Puniſhments I ſpake of; as for Eternal, I deny to be after this Life, as being where there is no Free-will, altogether tyranni<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l and
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> diſhonouring of God: All which Puniſhments Temporal renders the Creature more happy, in that Adverſity commends a future of Proſperity, and makes us prize our Hap<g ref="char:EOLhyphen"/>pineſs the greater; and to this end was a Parabolical Hell-Fire threatned alſo, as well as to ſet forth the Terror of the Almighty.</p>
+               <p>Object. <hi>But 'tis good to fear the wor<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, the beſt will help it ſelf:</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> If you fear ſuch an Eternal Puniſhment, if there were any, that very Fear would condemn you to it; as 'tis writ, <hi>The unbelieving and fearful are caſt into the Lake of Brimſtone and Fire,</hi> Rev. 21. 8. And beſides, it's Fear will hinder you from Love to God, and Charity to your Neighbour, in that you muſt then own Free-will; and ſo deprive you of the means here to eſape it.</p>
+               <p>Object. <hi>Many have committed great Sins, and have here liv'd happy, or free from much Trouble either in Body or Mind, and muſt they receive all alike?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> There's none but have their Troubles here, tho ſome more than others; and <hi>Iſrael</hi> that die in Unbelief, and have com<g ref="char:EOLhyphen"/>mitted great Sins, yet art ſaved: whether there be degrees of Glory I ſhall not enquire, but I am ſatisfied there will be no Envy nor Out-vying,
+<hi>ſhall our Eye be Evil, becauſe he is good,</hi> Mat. 20. 15. Tho the laſt Labourer in the Vineyard came at the laſt Hour, received alſo a Penny equal with the others that had endured the Labour of the Day. Cannot God do what he will with his own? We have enough, and he that endured the Labour of the Day hath this Advantage, that he cannot but prize his Penny the more, which is the greater Happineſs, ſince alſo his Experience will give him this Eſtimation of his Penny to all Eternity above the other, who will want that Eſtimation of his Penny, as having not ſo much laboured for it. But ſome are for ſome Puniſhment after this Life, which I know not; but ſince there is no Free-will, it caunot be more than we are able to bear, and that for the better Eſtimation of future Joys.</p>
+               <p>
+                  <pb n="23" facs="tcp:32513:12"/>In <hi>Page</hi> 26. of the <hi>Clavis Aurea,</hi> I diſcourſe of a perfect Free<g ref="char:EOLhyphen"/>will, to which I refer you; and this I muſt add to it, that as by a Penny we know how a Shilling is coined, ſo by a Shilling we know how a Penny is coined, from the greater. Then, if the firſt Cauſe were ceas'd to be, we can't imagine we could live, move, or have any being: whereby we may as eaſily believe that we may have a Power given us to create our ſelves, as govern our ſelves, ſince in both there muſt be a Seperation between the Cauſe and the Effect, which is the utmoſt Satisfaction in this Free-will. Neither is a Talent given or rather mov'd in all alike, for one is ſubject to Love, another to Hatred; one to Fornicati<g ref="char:EOLhyphen"/>on, another to Chaſtity; another is an Unbeliever, to another Faith is given, and the like throughout all Vertue and Vice: And let two contrary Livers exchange Lives if they can, and let him that hath ſome prevalent Sin conquer it; and then Experi<g ref="char:EOLhyphen"/>ence will ſoon open your Eyes<g ref="char:punc">▪</g> in Free-will: And when all is done, you cannot pretend to a perfect Free-will, or to be ſaved by your Free-will, ſince <hi>by the Works of the Law no Fleſh ſhall be juſtified,</hi> becauſe he cannot keep it in every point: We muſt then ſearch out upon what Terms our Salvation doth depend, and that's the Free-will we muſt enquire into, no other Free<g ref="char:EOLhyphen"/>will we can pretend to, will do us any kindneſs.</p>
+               <p>I am now come to ſee whether we have a particular Free-will in thoſe Terms our Satisfaction of Salvation doth depend, and ſince it doth not depend on the Works of the Law, becauſe we cannot pretend to keep them perfectly, we muſt be ſaved by Faith alone, which ſaving Faith I have before laid down in plain Proofs from Scripture: The <hi>Jews</hi> had ſo little Free-will in this Faith, that ſome had no deſire to look after it, and ſome that did look after it, could not obtain it; and others, as the
+<hi>Gentiles</hi> that ſought not after it, obtained it: And what Prero<g ref="char:EOLhyphen"/>gative we can pretend to, above theſe, I leave to your own Ex<g ref="char:EOLhyphen"/>perience: And ſo I ſhall draw to a Concluſion, thus,</p>
+               <p>When we depend on Works, by the way of freewill, we then depend on our own Righteouſneſs, and ſo like <hi>Peter</hi> we may fall into a Ditch, or deny Chriſt, or ſome other Danger: But when we look upon Works or Goodneſs as freely given us we not in the leaſt deſerving or having a Power but what is gi<g ref="char:EOLhyphen"/>ven to endeavour for them, whereby we look upon our ſelves as nothing, and that theſe Works are not meritorious, but only the Blood of Chriſt; then we depend clearly and only on the Rightouſneſs of Chriſt, or his Blood: This is ſafe, and through<g ref="char:EOLhyphen"/>out the Scriptures thoſe that had the Power given them to truſt <pb n="24" facs="tcp:32513:13"/> in God, he led them in his ways tho not to be ſo perfect here on Earth as not to commit Sin, yet they were <hi>perfect,</hi> in a Go<g ref="char:EOLhyphen"/>ſpel Perfection, or <hi>in Love, which caſteth out Fear,</hi> 1 Joh. 4. 17, 18. and ſo would not commit Sin, if they could help it, in which Love was the fullfilling of the Law in Chriſt: And it was ſaid to <hi>Ebed<g ref="char:EOLhyphen"/>melech</hi> the <hi>Ethiopian,</hi> Jer. 39. 18. <hi>Thy Life ſhall be for a Prey unto thee, becauſe thou haſt put thy truſt in me.</hi> Love to God and Love to our Neighbour is the fullfilling of the whole Law in Chriſt; and ſo is a Foundation of Good Works, and the End of Religi<g ref="char:EOLhyphen"/>on, <hi>Love thinketh no evil to his Neighbour, therefore Love is the fulfilling of the Law,</hi> Rom. 13<g ref="char:punc">▪</g> 8, 9, 10. Love is the Price of Love, and he muſt needs love us firſt; if we have this Love, and this Love being obtained (which cannot be but by this Do<g ref="char:EOLhyphen"/>ctrine, or an Infuſion of the Holy Goſt, rapturing the Spirit with ſuch Sweetneſs beyond the Conception of Man before a tryal of it, tranſporting the Soul beyond all Fear, tho the Scriptures lie hid from him) we can have no better Satisfaction of our Salvation, which Salvation unknown to us, hath been lock'd up in the ſecret Decrees of a tender and loving Father, who for pleaſant things hath given us profitable things, that we may prize by a Contrariety or Sufferings of this World; his Love in the World to come; whoſe inconceivable Raptures! But what am I going to ſay? I can only take my Leave of you, and wiſh you all, both my Friends and Enemies, an eternal Ex<g ref="char:EOLhyphen"/>perience of them, or his Love, which paſſeth all underſtanding, in the higheſt Heavens, even in Mount <hi>Sion,</hi> amongſt the innu<g ref="char:EOLhyphen"/>merable and glorious Company of Saints and Angels.</p>
+               <closer>Amen.</closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:32513:13"/>
+            <head>POSTSCRIPT.</head>
+            <p>I Think to take my final leave of the Clergy, which is what they expect that my writings might dye, but firſt I hold it convenient to examine their works, and find out the Reaſons they do not anſwer me.</p>
+            <p>Mr. <hi>Pelling</hi> Chaplain in ordinary to his Majeſty, in his practical diſcourſe upon God's Love, <hi>Pag.</hi> 19, 20.
+<q rend="margQuotes">Indeed (ſaith he) 'tis ſaid that God giveth ſome a Spirit of Slum<g ref="char:EOLhyphen"/>ber, Eyes that they ſhould not ſee, and Ears that they ſhould not Hear: but theſe and the like Expreſſions, though at the firſt hearing, they Sound harſh, yet they do not re<g ref="char:EOLhyphen"/>late to any antecedent decree or deſire or work of God, but are only accidentally, by the juſt Judgment of God upon obſtinate People who harden themſelves ſo, that in the end God gives them up to themſelves, ſo that they become ſtupid, blind, and deaf, but the Original of this, is their own wil<g ref="char:EOLhyphen"/>ful remper and ſinful Courſes whereby their Hearts wax groſs, and their Ears become dull of hearing, and their Eyes they cloſe themſelves by repe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ted acts of their own, as if they were affraid, left at any time they ſhould ſee with their Eyes and underſtand with their Hearts, and ſhould be converted and heal'd.</q>
+            </p>
+            <p>Mr. <hi>Pelling</hi> is now living, and theſe are his words
+<hi>Verbatim:</hi> Pray what <hi>repeated acts of Sin</hi> did
+<hi>Iſrael</hi> commit before they were born? For this <hi>Iſrael</hi> that were then blinded in <hi>Paul</hi>'s days, were ordain'd ſo to be before the Seventy Years Captivity, <hi>Iſa.</hi> 6. 9. as 'tis there writ; <hi>Go and tell this People, hear ye indeed, but underſtand not,</hi> &amp;c. <hi>Shut their eyes leſt they ſee,</hi> &amp;c. <hi>And be converted and heal'd.</hi> And this very Text by <hi>Paul,</hi> in <hi>Acts</hi> 28. 25, 26. is apply'd to the Jews that diſcours'd him at <hi>Rome,</hi> and could not believe him. Beſides, <hi>Paul</hi> teſtified, that <hi>thoſe which had not Knowledg, had a Zeal to God,</hi> Rom. 10. 2. What greater repeated Acts of Sin would ſuch People commit, that would en<g ref="char:EOLhyphen"/>deavour from that Zeal to do any thing for the beſt? Which blindneſs is to continue till the Fulneſs of the Gentiles be come in, whereby Millions are born to dye in Unbelief. So that this Unbelief was not upon <hi>Iſrael</hi> for any Sins they had committed, but that the Gentiles might be grafted in. In that its ſaid
+<pb n="26" facs="tcp:32513:14"/> their Eyes have they cloſed, it's alſo ſaid,
+<hi>Pharoah hardned his Heart, Exd.</hi> 9. 34. But can it be proved, that
+<hi>Pharaoh</hi> could avoid at that time hardning his Heart and let
+<hi>Iſrael</hi> go? ſee 30. 1. or that the Jews could open their Eyes and believe? But this being a Knot that was not yet untied, I will ſay thus far to it: When God moves in Man to do Evil, he moves it in him by a ſecond cauſe, as by the Devil, and Luſt; and ſo he ſaith, he doth not tempt any Man to Evil as the ſecond Cauſe, but every Man is drawn away by his own Luſt. But who created Luſt in Man? But throughout the Scripture (as Mr.
+<hi>Everard</hi> notes in his Divine Exorciſms) what the Devil doth, God owns to do himſelf. Did the Devil (ſaith he) harden <hi>Pharaoh</hi>'s Heart? God ſaith, I have hardned <hi>Pharaoh</hi>'s Heart, and ſo he proceeds: So that God as the firſt Cauſe hardned <hi>Pharaoh</hi>'s Heart, and he owns it; and the Devil, as the ſecond Cauſe; yet <hi>Pharaoh</hi> hard<g ref="char:EOLhyphen"/>ned his own Heart, as 'tis ſaid, becauſe his reaſon was excerciſed with unavoidable falſe Reaſonings mov'd in him by other Cauſes, which was an Act of the Mind, as the unavoidable Crucifixion of Chriſt was an Act of the Hand: as thus; Why ſhould I let Iſrael go? Who is the Lord? Do not the Magicians do Miracles as well as <hi>Moſes?</hi> even ſo did
+<hi>Iſrael</hi> unavoidably cloſe their Eyes, and unavoidably crucify Chriſt, which was an act of the Hand, and yet for it are term'd
+<hi>Murderers, Acts</hi> 7. 52. yet 'twas determined, they could not help it: for doth not Chriſt ſay, <hi>I lay down my own Life, no Man taketh it from me. I lay it down my ſelf, John</hi> 10. 17, 18. By this its clear, that the firſt Cauſe moves the ſecond Cauſe, and the ſecond the third,
+<hi>&amp;c.</hi> as me<g ref="char:EOLhyphen"/>chanically the Spring moves the Wheels, the Wheels the Pin: And ſo Scripture, Reaſon, and Experience concur. But how then Man can be ſaid to be either Good or Evil, and be the Subject of Puniſhment and Reward, ſee my <hi>Addition, Page</hi> 21. Biſhop <hi>Stillingfleet</hi> hath writ no Treatiſe concerning Predeſti<g ref="char:EOLhyphen"/>nation; which if he had, I would have examin'd his Works: but he is but a moral Writer, as the reſt are: Morality is not Divinity or Predeſtination. Mr. <hi>Vincent,</hi> in his Converſion of the Soul, <hi>P.</hi> 111. ſaith, <hi>One Sin loved, and liv'd in, is enough to prove one unconverted, and will be ſufficient to deſtroy:</hi> And Mr. <hi>Mead</hi> in his Early Obedience, <hi>P.</hi> 282. ſaith, from the 1 <hi>Cor.</hi> 6. and <hi>Rev.</hi> 21. that
+<q rend="margQuotes">
+                  <hi>no Adulterers, Thieves, Coveteous, Drunkards, Fearful, <g ref="char:V">Ʋ</g>nbelievers, Murderers, Lyars.</hi> And he beſeeches us to conſider, <hi>if any of theſe Sins be chargeable upon us, we are actually ſhut out from any Claim in Chriſt:</hi>
+               </q> had either of theſe Moraliſts. (as for predoſtination they underſtand <pb n="27" facs="tcp:32513:14"/> not) in either of theſe Books, ſaid, that God accepts the will for the deed, I ſhould not have taken their Words in ſuch a deſpairing and ſtrickt Senſe, they would do well to examin their own Charity, (by my definition of a Saving Faith) whether they are not Unbelievers and Coveteous, Proud and Paſſionate, or at leaſt guilty of ſome one Sin or another, which if they be, they condemn themſelves (as far as I perceive) by their own Arguments, or or at leaſt there's little Satisfaction in ſuch obſcure writing, nor incouragment to do Good: For where is difficulty in Work, and hard to pleaſe, whereby we are un<g ref="char:EOLhyphen"/>certain of any deſert or wages, I ſay there's little incourag<g ref="char:EOLhyphen"/>ment to ſerve.</p>
+            <p>In all Divinity Books but what I have writ, I find no Stan<g ref="char:EOLhyphen"/>dard to try their Arguments by, nor any true (if any) defi<g ref="char:EOLhyphen"/>nition of Faith, whereby there's no Satisfaction in them: But to thoſe that eſteem their Moraliſts (which they call Di<g ref="char:EOLhyphen"/>vines) Infallible, let them conſider, that they diſown Infalli<g ref="char:EOLhyphen"/>bility themſelves, and they were Princes, great and learned Men (that made great Figures in the World) crucified Chriſt and perſecuted the Apoſtles. And to thoſe that ſay the Scrip<g ref="char:EOLhyphen"/>tures are eaſy to be underſtood in matters of Salvation: I deny it becauſe there's ſcarce a Command, but is ordained to be broken: See my Addition. And <hi>pag.</hi> 20. as there are contrary Religions one to another yet every Religion brings Scripture to prove his own: And to thoſe who ſay I wreſt the Scrip<g ref="char:EOLhyphen"/>tures, I cannot do it, but the Moraliſts wreſts them, taking only what is Commanded, whereby they get Riches but do not meddle with, much leſs unite the moral and predeſtinated part together: But I refuſe none, but unite both parts: But what Satisfaction is there in the Moral part of Scripture; if according to ſome, we ſay we muſt be as good as we can, then we are apt to condemn our ſelves, and ſay we might have done better, or if according to Mr. <hi>Vincent</hi> and Mr. <hi>Mead,</hi> (who are now both Living) we take the Scriptures in its ſtrickt Literal Senſe, who can be Sav'd? But they miſtake, for our Salvation depends on Works as they make up one part of Faith, which Faith is a Freegift, but this they could never reach: See my definition of a Saving Faith in my Addition before: And let Men take notice there hath been a famine of the word pro<g ref="char:EOLhyphen"/>phefied of before by <hi>Amos:</hi> 8.
+11. for want of a Spiritual Man to expound the Scriptures. And I think Men have the greater Reaſon to eſteem my Books in that they prove Unan<g ref="char:EOLhyphen"/>ſwerable.</p>
+            <p>
+               <pb n="28" facs="tcp:32513:15"/>I have done with theſe Authors, and from what hath been ſaid, you may (if you are not blinded) ſee the inſufficiency of all Men upon Earth to diſpute me: Which I boaſt not of as attain'd from any endeavour of mine, but as a gift of God: And I am not inſenſible of the Conceitedneſs of many in Oral Diſputes; but dare they write? I may ſay to ſuch as <hi>Paul</hi> ſaid to the Jews, <hi>ye deſpiſers wonder, I work a work in your Days which you ſhall in no wiſe believe, Acts</hi> 13. 41. And are you ſo conceited, that the Jews did not think themſelves at that time as wiſe as now you think your ſelves; I am Satisfyed the Scrip<g ref="char:EOLhyphen"/>ture is a Book Sea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'d up from all, but thoſe divinely inſpired or Spiritual Men; and at this time many of you, as they then, ſhall not be able either to believe me or diſprove me: and I affirm, that its the property of the Myſtery of Divinity hardly to be believ'd, but not to be overthrown by Argument: and its no ſhall Pleaſure to me, to ſee the various humours of Men, yet cannot anſwer me; ſome Laugh at my writings; others are afraid of Sound Doctrine, and in both the Scriptures are fulfill'd: thus, <hi>the Naturall Man receiveth not the things of the Spirit of God; for they are Fooliſhne's</hi> (ſo laught at) <hi>unto him; neither can be know them, becauſe they are ſpiritually diſcern'd,</hi> Cor. 2. 14. <hi>the time will come, when Men will not endure Sound Do<g ref="char:EOLhyphen"/>ctrine 2 Tim.</hi> 4 3. Certainly then there muſt be ſomething in Sound Doctrine as well as in falſe, that Men ſhould be ſo a<g ref="char:EOLhyphen"/>fraid of it, but this is only to thoſe that underſtand it not; tis very pleaſant to thoſe that can receive it. I wiſh Men would conſider the blindneſs of the Jews, and others that perſecuted <hi>Paul,</hi> inſomuch that he was made <hi>a Spectacle to the World: and of all Men moſt miſerable:</hi> And truly now ſome follow their Steps who perſecuted him, and have done me what diskindneſs the Law will let them, in forſaking my Shop, whereby my Family is reduced to ſuch neceſſity, that with him I may almoſt ſay, I have no <hi>certain Duelling Place, Cor.</hi> 8. 11. they have no more reaſon to do it by me, then the Jews did it by <hi>Paul:</hi> He tells us, <hi>that at this time do we both Hanger and Thirſt, are Naked and Buffectted, &amp;c. 1 Cor.</hi> 8. and at his Suffering then, ſo my Suffering now is an Evidence of the
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lindneſs of the World, who ought to Love their Enemies, and to reduce a <hi>Brother</hi> (if <hi>fallen) in the Spirit of Meekneſs, Gal.</hi> 6. 1. If I am mad (as ſome ſay) I deſerve the greater Compaſſion, but its in vain to proceed farther in this, ſince in ſome neither <hi>Precept</hi> nor <hi>Example</hi> will take place: But I will now finiſh this Poſtſcript, by adding ſomewhat I haveleſt out in my Addition.</p>
+            <p>
+               <pb n="29" facs="tcp:32513:15"/>It is ſaid, go <hi>ye Curſed into Everlaſting Fire &amp;c. Matth.</hi> 25. this is part of that parable. But who are Curſed? Certainly thoſe that are Damn'd, and who are Damn'd: but thoſe that dye in Unbelief as <hi>Iſrael</hi> unavoidably, yet are they ſav'd: An other Scripture tells us, <hi>every Mans Work ſhall be Burnt, but he himſelf ſhall be ſav'd yet ſo as by Fire, 1 Cor. 3. 15. So that by Fire there's no ſuch danger</hi> as People think, as is evident not only from this, but alſo in my Addition.</p>
+            <p>Some Scriptures perſwade Men to allow of Free-will, though at the ſame time they prove not an Eternal Torment for Sin after this Life: as theſe; <hi>Oh that Iſrael had harkned unto me that they had walked in my ways: Pſal.</hi> 81. 13. now joyn this to <hi>Gen. 6. 6, 7. when God ſaw the VVickedneſs of Man, it repented him that he had made man, and griev'd him to the heart:</hi> why may not he as well ſay, O that I had not Created Man and Or<g ref="char:EOLhyphen"/>dained Sin! Oh that I had determin'd Man at friſt to walk in my ways, for now I ſee Sin actually Committed, and ſee the Puniſhments I inflict on Man, it grieves me to the very Heart! Can we be ſo weak as to think God did not foreſee what would be in Man? (<hi>Chriſt being Ordained to be Slain from the foundation of the World,</hi> Rev. 13.) and declares the world to be more wicked as appears in 2 <hi>Tim.</hi> 3. yet he ſtill continues Man upon Earth, which ſhews theſe things were determined; and this Repentance and Wiſhing, Oh that my People had harkned unto me, and that I had not Created Man were foreſeen by him to be in himſelf when he ſhould ſee Sin Committed and Puniſhed: but God having Choſen the beſt meanes to manifeſt his Attributes and to make Man the more ſenſible of his happineſs by Sin and its Puniſhment, takes no pleaſure in theſe meanes as Sin and its Temporal Puniſhment which grieves him, but in the ends to which he Ordained them which ſets forth his tender Mercy; after <hi>Adam</hi> had eaten of the forbidden fruit, then it was ſaid, behold the Man is become as one of us, <hi>Gen.</hi> 3. 22. and this is perfectly Confirmed, if we conſider, though good be Com<g ref="char:EOLhyphen"/>manded, the Contrary Evil is Ordained. It is writ, Turn ye, Turn ye, why will ye Dye: <hi>&amp;c.</hi> It is the wiſdom of God by the folliſhneſs of Preaching to Confound the wiſdom of the World: here's a Command to Turn, and a Threatning to Dye if we do not Turn, that the Creature by Striving to Turn, may be Senſible of his infirmity or diſability to Turn without God draws him. There are three things Principally Commanded to turn to, <hi>viz.</hi> to <hi>love God, our Neighbour,</hi> and Faith in Chriſt: <hi>But contrary to this, its ſaid, Men ſhall be Lovers of Pleaſures more than Lovers of God, 2 Tim. 3, 4. I have ſet all Men every one againſt his <pb n="30" facs="tcp:32513:16"/> Neighbour, Zach. 8. 10. Seeing ye ſhall ſee and not perceive,</hi> &amp;c. Iſ. 6. 9. <hi>It is alſo ſaid, the Lord is long ſuffering, and not willing that any ſhould periſh, but all ſhould come to Repentance.</hi> But con<g ref="char:EOLhyphen"/>trary to this it's ſaid, <hi>The callings and Gifts of God are without re<g ref="char:EOLhyphen"/>pentance</hi> Rom. 11.
+32. And ſo it is; for Iſrael that dye in Un<g ref="char:EOLhyphen"/>belief, repent not for the Crucifying of Chriſt, yet are ſaved: and amongſt ſuch multitudes that Dye in Unbelief, ſome (un<g ref="char:EOLhyphen"/>doubtely) dye ſuddenly in their Sins; but in another Life, <hi>Iſrael</hi> that dye in Unbelief here, and periſh, comes to Faith and Re<g ref="char:EOLhyphen"/>pentance, and never more periſh. Thus in Juſtice and Mercy the Lord is long ſuffering, if he ſaves all Men. But how ſay ſome, ſince Mercy is a mitigation of Juſtice, in one and the ſame Crime, can he be both juſt and merciful? I anſwer, In God it may be ſo, but not in man, who muſt make an Appeal; but God makes none, as none being greater; ſo that
+'tis a mercy for him to be juſt, in that none can compel him to be juſt: But if there were Free-will, I don't underſtand there can be any Juſtice, I am ſure there's no Mercy, for a finite Sin (which can no ways inflict any corporal pain upon a Deity) to be infinitely tormented in fire. Thus all men Periſh in the fleſh and live in the ſpirit: <hi>The Body is dead becauſe of Sin, but the Spirit is life becauſe of Righteouſneſs,</hi> Rom. 8. 10. And thus the Body, like a Treem lies as it falls, and the Spirit returns to him that gave it. <hi>John</hi> ſaith, <hi>This is the Condem<g ref="char:EOLhyphen"/>nation, that light is come into the world, and men loved darkneſs rather than light,</hi> Joh. 3. 19. The words Damnation and Condemnation here is the ſame, becauſe Darkneſs is the Damnation condemn'd to, and inflicted upon Iſrael: ſo that Damnation is Unbelief it ſelf, which is the want of the Joys of the Holy Ghoſt in a man; which having, the
+<hi>Kingdom of Heaven</hi> then is in a man, and with<g ref="char:EOLhyphen"/>out thoſe Joys we may be ſaid to be in Hell, or under Darkneſs or Unbelief, without aſſurance of Salvation, <hi>full of fear, in which is Torment, John</hi> 4. 18.</p>
+            <p>When I ſay, all Iſrael ſhall be ſaved becauſe it is ſaid, all are not Iſrael which are of Iſrael; they ſay the word
+<hi>All</hi> then ſig<g ref="char:EOLhyphen"/>nifies ſome.</p>
+            <p>I anſwer, then that ſome are that part of Iſrael that dye in Un<g ref="char:EOLhyphen"/>belief that are ſaved; becauſe thoſe Iſrael to whom Blindneſs in part is happened to, till the Fullneſs of the Gentiles be come in, are Enemies to the Goſpel, yet are they elected and beloved. <hi>Rom.</hi> 11. from Ver. 25. to Ver. 33. And in the next place, it would be inconſiſtent with the Wiſdom, Honour, Juſtice, and mercy of God, firſt to conclude or blind a People that had a Zeal to him, and to determine them ſo to be, before they are born, <pb n="31" facs="tcp:32513:16"/> and then to torment them to all Eternity, Body and Soul, after this Life, for what they could in no wiſe avoid. Some, when I ſay (as in <hi>Rom.</hi> 11. 32.) God hath concluded them in Unbe<g ref="char:EOLhyphen"/>lief, that he might have mercy on them; ſay, that the word Concluded here ſignifies, God Concludes they are Unbelievers. I anſwer, But God Concluded them or <hi>Iſrael</hi> (in the 25th Ver. which is the Senſe foregoing to 32 Ver.) in Unbelief, till the Ful<g ref="char:EOLhyphen"/>neſs of the Gentiles be come in; whereby they are Concluded or ordain'd before they are born to dye in Unbelief: therefore this mercy, in the 32 Ver. is to be given them in another Life. Neither can God give Free-will in Faith, which is at the ſame time to act two Contraries, for at the ſame time he gives Faith, he can<g ref="char:EOLhyphen"/>not at the ſame time permit Unbelief to the ſame Perſon: And at the ſame time that he permits Unbelief he cannot give Faith. So the words, <hi>Concluded them in <g ref="char:V">Ʋ</g>nbelief,</hi> muſt ſignify, God blin<g ref="char:EOLhyphen"/>ded them, and would not permit them to believe; eſpecially if we conſider, from unbeliving Iſrael that dye in Unbelief and can<g ref="char:EOLhyphen"/>not obtain Faith, that not only Faith, but alſo the endeavouring for it, muſt be given of God: And they that had a Zeal to God, could not have Faith, when he was found of the Gentiles that Fought him not.</p>
+            <p>Thus have you the true Doctrine of Predeſtination; but I find it hath been much ſought after, and long expected, as the Jews did the M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſiah but could not receive him: and do you think, you may not be as much miſtaken about <hi>Elias</hi> when he ſhall come? And ſay there are many falſe prophets, and you do not know who may be the right, but let them be true or falſe, you'l uſe them both alike? And what <hi>Judea</hi> ſuffer'd for ſo doing, the Scripture informs you. But what ſaith our Saviour, a Prophet is not eſteem<g ref="char:EOLhyphen"/>ed in his own Country: The Perſon of Chriſt was contemptible, inſomuch they call'd h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m Fellow; as for this Fellow we know not from whence he is: ſo the Perſon of <hi>Paul</hi> was Contemptible as others ſaid: And indeed the hard uſage of <hi>Paul</hi> making him both to Hunger and Thriſt, and to be Naked, added much to the Con<g ref="char:EOLhyphen"/>tempt of his Perſon. And the ſame (undoubtedly) <hi>Elias</hi> muſt expect when he comes, from thoſe who can neither believe him nor diſcourſe him. Which is a ſign to know a Spiritual Man or Prophet by. And if you are ſtill ſo weak to think the Learned can anſwer me, and cannot defend their own works it would be great Stupidity indeed, and 'twill be in vain for me to perſwade ſuch who make not their Reaſon, but their Unbelief, an Argument againſt me.</p>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:32513:17"/>
+            <head>Omiſſions and Erratas in the <hi>Clavis Aurea.</hi>
+            </head>
+            <p>Pag. 7. <hi>L.</hi> 34. blot out, ſo. <hi>P.</hi> 8. <hi>L.</hi>
+31. before altho, and at the end of the word, <hi>Jacoh,</hi> make Parentheſis thus () <hi>P.</hi> 10. <hi>L.</hi> 6. add in the margent with a Pencil, Since Unbelievers are ſaved, theres no Hell Fire after this Life: And amongſt ſuch multitudes that dye in Unbelief, ſome have Committed the Groſſeſt Sins: And there's no Free-will in Faith on which de<g ref="char:EOLhyphen"/>pends Mans Salvation. <hi>P.</hi> 13. <hi>L.</hi> 5. for Loaves <hi>r.</hi> Tares. Be<g ref="char:EOLhyphen"/>tween <hi>lin.</hi> 18. and <hi>lin. 19. add.</hi> It's ſaid, <hi>Matth.
+11. It ſhall be more tolerable for</hi> Sodom <hi>at the Day of Judgment</hi> (whoſe Miſery is then over at that Day of Judgment) <hi>than for</hi> Chorazin, which ſhortly was to be deſtroyed for Unbelief with
+<hi>Jeruſalem</hi> and <hi>Judea.</hi> And whereas it is ſaid, in <hi>James
+3. The Tongue is a Fire, and ſet on fire of Hell;</hi> Obſerve, it's ſaid, <hi>No Man can tame it,</hi> whereby it's unrulineſs is an Infirmity, and is ſet a raging, or on fire in Hell, or by this World's Infirmities, as Paſſion, Covetouſneſs, Pride, <hi>&amp;c. P. 15. l.</hi> 28. for
+<hi>Grrves</hi> read <hi>Graves.</hi>
+            </p>
+            <p>In the Myſtery of Iniquity, <hi>P. 24. L.</hi> 9. between the words Cru<g ref="char:EOLhyphen"/>cifixion and Objection, <hi>r.</hi> and it muſt be in a Crucified Chriſt ſince the Lamb was Slain from the Foundation of the World,
+<hi>Rev.</hi> 13. 8. which was before <hi>Adam</hi> was Created.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <p>
+               <hi>THis Book may be had at</hi> Thomas Moor's, <hi>a Barber, living in St.</hi> Thomas's <hi>in</hi> Southwark, <hi>near the Sign of the</hi> Harrow.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
